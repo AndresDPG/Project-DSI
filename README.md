@@ -1,2 +1,2 @@
-# Project-DSI
-final project software development
+# LOSY
+Proyecto final
